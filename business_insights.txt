@@ -1,0 +1,28 @@
+BOOK DATA ANALYSIS REPORT
+===================================
+
+Total books analyzed: 100
+Average book price: £34.56
+Lowest book price: £10.16
+Highest book price: £58.11
+Average rating: 2.93/5
+
+Rating Distribution:
+rating
+1    22
+2    19
+3    22
+4    18
+5    19
+
+Stock Availability:
+in_stock
+1    100
+
+Average Price by Rating:
+rating
+1    35.52
+2    35.91
+3    36.84
+4    33.98
+5    30.01
